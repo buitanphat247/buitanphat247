@@ -32,6 +32,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 
+---
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,6 +43,7 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react)
 
+---
 
 ### Algorithms & Competitive Programming
 💡 Có kinh nghiệm giải thuật và lập trình thi đấu với Python, C++, C. Thành thạo cấu trúc dữ liệu, thuật toán, tối ưu thời gian và bộ nhớ.  
@@ -52,6 +54,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%23121011.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 
+---
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,12 +62,14 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+---
 
 ### Mobile & IoT
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+---
 
 ### DevOps & Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -75,6 +80,7 @@
 ![GitHub Pages](https://img.shields.io/badge/github_pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
 ### UI / Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -87,6 +93,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/adobe_after_effects-9999FF.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/adobe_dreamweaver-FF61F6.svg?style=for-the-badge&logo=adobe%20dreamweaver&logoColor=white)
 
+---
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +107,6 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Babel](https://img.shields.io/badge/babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=buitanphat247&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=buitanphat247&theme=solarized-dark&hide_border=false)  
@@ -110,11 +116,9 @@
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=buitanphat247&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=buitanphat247&icon=0&color=1)](https://visitcount.itsvg.in)
