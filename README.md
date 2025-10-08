@@ -1,4 +1,14 @@
-<h1 align="center">Hi, I'm <b>Bùi Tấn Phát (MoiMoi)</b></h1>
+# Hi, I'm Bùi Tấn Phát  
+
+**Fullstack Developer | Mobile App Developer | UI/UX Designer | Algorithm Enthusiast**
+
+---
+
+### About Me  
+- Currently developing **EduLib – Online Learning & Testing Platform**  
+- Skilled in **Frontend**, **Backend**, **Mobile App**, **Design**, and **Algorithms**  
+- Exploring advanced topics in **NestJS**, **React Native**, and **System Architecture**  
+- Passionate about **clean code**, **automation**, and **problem solving**
 
 
 ## Contact Me
