@@ -2,7 +2,6 @@
 
 **Fullstack Developer | Mobile App Developer | UI/UX Designer | Algorithm Enthusiast**
 
----
 
 ### About Me  
 - Currently developing **EduLib – Online Learning & Testing Platform**  
