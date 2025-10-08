@@ -35,7 +35,6 @@
 ---
 
 ### Algorithms & Competitive Programming
-💡 Có kinh nghiệm giải thuật và lập trình thi đấu với Python, C++, C. Thành thạo cấu trúc dữ liệu, thuật toán, tối ưu thời gian và bộ nhớ.  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
